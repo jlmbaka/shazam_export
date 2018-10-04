@@ -1,5 +1,5 @@
 # README
-Small tool to import My Shazam playlist. It saves it to a local file and generates a url to convert to to be imported in other applications such as:
+Small tool to import and export Shazam playlists. It saves it to a local file and generates a url to convert to to be imported in other applications such as:
 
 * Spotify
 * Youtube
